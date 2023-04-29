@@ -1,6 +1,6 @@
 ### Olá Mundo
 
-💡- Atualmente estudando técnologias para desenvolvimento mobile com foco no híbrido usando framework Flutter.
+💡- Desenvolvedor mobile usando o framework Flutter com linguagem Dart.
 
 📭- Contate-me no email: gnadtfernando45@gmail.com
 
